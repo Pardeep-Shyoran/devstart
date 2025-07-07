@@ -62,6 +62,7 @@ async function main() {
 
 	filesToCopy.forEach((file) => {
 		const src = path.join(__dirname, file);
+		const destFile = file === ".gitignore" ? ".gitignore" : file;
 		const dest = path.join(targetPath, destFile);
 		fs.copyFileSync(src, dest);
 	});
