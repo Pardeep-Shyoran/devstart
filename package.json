@@ -14,7 +14,7 @@
 		"index.html",
 		"vite.config.js",
 		"eslint.config.js",
-		"gitignore",
+		".gitignore",
 		"README.md"
 	],
 	"main": "noop.js",
