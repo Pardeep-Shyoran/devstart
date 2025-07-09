@@ -24,6 +24,15 @@ cd my-app
 npm install
 ```
 
+> ⚠️ Do not use `npm install create-devstart` directly unless you're developing the tool.
+>  
+> To scaffold a new project, use:
+
+```bash
+npx create-devstart my-app
+```
+
+
 > Replace `my-app` with your desired project name.
 
 This will:
@@ -36,15 +45,6 @@ This will:
 
     Initialize a Git repository
 
-
-
-> ⚠️ Do not use `npm install create-devstart` directly unless you're developing the tool.
->  
-> To scaffold a new project, use:
-
-```bash
-npx create-devstart my-app
-```
 
 ## 📚 Tech Stack
 
