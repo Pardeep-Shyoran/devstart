@@ -19,6 +19,7 @@ A minimal and modern boilerplate to kickstart your React project. Powered by [Vi
 
 ```bash
 npm create devstart@latest
+❓ Enter a name for your project folder:
 cd my-app
 npm install
 ```
