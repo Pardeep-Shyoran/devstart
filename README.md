@@ -18,7 +18,7 @@ A minimal and modern boilerplate to kickstart your React project. Powered by [Vi
 ## 📦 Installation
 
 ```bash
-npx create-vite@latest my-app
+npm create devstart@latest
 cd my-app
 npm install
 ```

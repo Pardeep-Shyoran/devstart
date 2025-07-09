@@ -1,6 +1,6 @@
 {
 	"name": "create-devstart",
-	"version": "1.0.0",
+	"version": "1.0.9",
 	"description": "A minimal React boilerplate powered by Vite and preconfigured with Tailwind CSS",
 	"private": false,
 	"type": "module",
